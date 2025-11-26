@@ -36,7 +36,7 @@ onChangeText={setMessage}
 />
 
 
-<Button title="Submit" onPress={() => alert("Message Sent!")} />
+<Button title="Submit" onPress={() => alert("Form submitted sycessfully")} />
 </View>
 );
 }
